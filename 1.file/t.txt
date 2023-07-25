@@ -1,0 +1,8 @@
+Most computer language seems terrible to programmers that are yet to start coding
+you might have taken a look at a couple of the popular programming languages, for example, C++ or Java and been somewhat humiliated by what you saw.
+The pages may have been filled to the edge with letters and images that you simply didn't comprehend, and you got disappointed and just needed to leave.
+Numerous individuals are scared of programming and feel like it is just unreasonably hard for them.
+In any case, with the Python programming language which is known as home for all, as it is
+recommended by programmers around the globe as a good language for beginners to learn, you will
+find out that it doesn’t take much for one to read and understand programming. 
+This book is going to give you the fundamentals that you need to acquire for a smooth Python programming journey

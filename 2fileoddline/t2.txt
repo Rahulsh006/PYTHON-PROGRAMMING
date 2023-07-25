@@ -1,0 +1,7 @@
+Python is a popular programming language.
+It is used for:
+    *software development
+    *system scripting.
+    *Python can be used on a server to create web applications
+    *Python can connect to database systems
+    *Python can be used for rapid prototyping or for production-ready software development.
