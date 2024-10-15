@@ -113,7 +113,7 @@ class MyBot(Wechaty):
             else:
                 await msg.say(f'can not fine room member by name<{room_member_name}>')
         elif text.startswith('get room topic'):
-            logger.info('get room topic')
+            logger.info('get room topics')
             if room:
                 topic: Optional[str] = await room.topic()
                 if topic:
