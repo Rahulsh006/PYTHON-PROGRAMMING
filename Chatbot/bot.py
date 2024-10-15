@@ -28,7 +28,7 @@ class MyBot(Wechaty):
     """
 
     def __init__(self) -> None:
-        """initialization function
+        """initialization functions
         """
         self.login_user: Optional[Contact] = None
         super().__init__()
